@@ -1,0 +1,86 @@
+Editing:  
+/home/xeschool/public_html/groupassignment/Dashboard/Admin/css/notifications.css
+ Encoding:    Re-open Use Code Editor     Close  Save Changes
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+#header {
+    background-color:#fff;
+    color:#354052;
+    text-align:center;
+    padding:5px;
+    padding:8px;
+    height:55px;
+    font-family:tahoma;
+    position:fixed;
+    margin-left:200px;
+    width:1140px;
+}
+#nav{
+  background-color:#354052;
+  color:#fff;
+  height:800px;
+  width:200px;
+  margin-top:0px;
+  position:fixed;
+}
+#nav ul{
+  list-style:none;
+  padding-top:3px;
+  padding-bottom:3px;
+}
+#nav li{
+  padding-top:1px;
+  padding-bottom:1px;
+}
+#nav li a{
+  color:#fff;
+  padding-left:2px;
+  padding-top:3px;
+  padding-bottom:3px;
+  text-decoration:none;
+  font-family:tahoma;
+}
+
+#nav ul li a:hover{
+  color:#a9b4c6;
+
+  text-decoration:none;
+}
+
+.logo-img{
+  padding-top:30px;
+  padding-bottom:10px;
+  margin:0 auto;
+  display:block;
+
+}
+
+
+#section {
+    width:1128px;
+    height:1000px;
+    float:left;
+    padding:10px; 
+    margin-left:200px;
+    background-color:#edf2f6;
+    margin-top:44px;
+    padding-top:10px;
+}
+.sectionparagraph{
+font-size:24px;
+}
+
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+
+

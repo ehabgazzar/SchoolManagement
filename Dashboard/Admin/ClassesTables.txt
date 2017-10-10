@@ -1,0 +1,2 @@
+1~Sa~Math~English~Math~ Physics~Chemistry~Painting~Su~Arabic~English~Physics~Math~Painting~Chemistry~Mo~English~Arabic~Math~Physics~Painting~Arabic~Tu~Math~Physics~English~Painting~Arabic~Chemistry~We~Arabic~Chemistry~Math~Physics~Physics~Arabic~Th~Math~Math~Chemistry~Chemistry~Physics~Physics
+2~Sa~Math~Arabic0A~Arabic~Arabic~Arabic~Arabic~Su~Arabic~Arabic~Arabic~Arabic~Arabic~ArabicArabic~Mo~Arabic~Arabic~Arabic~Arabic~Arabic~Arabic~Tu~Arabic~Arabic~Arabic~Arabic~Arabic~Arabic~We~Arabic~Arabic~Arabic~Arabic~Arabic~Arabic~Th~Arabic~Arabic~Arabic~Arabic~Arabic~English

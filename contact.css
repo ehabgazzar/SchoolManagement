@@ -1,0 +1,191 @@
+body{
+  background-color:#4882ba;
+  margin:0px;
+  padding:0px;
+
+}
+
+.navbar ul{
+   list-style-type:none;
+   margin-left:35px;
+   padding: 0;
+}
+
+.navbar li{
+   float:left;
+}
+
+.navbar li a{
+   color: #b6d2f2;
+   display:block;
+   text-align: center;
+   text-decoration: none;
+   padding: 16px 14px;
+   font-size:16px;
+   font-family:open sans;
+   font-weight:bold;
+
+}
+
+.navbar ul li a:hover{
+   color: #ecf0f1;
+
+
+}
+
+.login-form{
+   float:right;
+   padding: 6px 14px;
+   margin-right:35px;
+
+}
+
+.login-form input{
+   padding:9px;
+   border:none;
+   -moz-border-radius: 5px;
+   border-radius: 4px;
+   margin:1px;
+
+}
+
+.login-btn{
+   background-color:#27b061;
+   color:#fff;
+   width:60px;
+   height:35px;
+   border:none;
+   font-weight:bold;
+   -moz-border-radius: 3px;
+   border-radius: 3px;
+
+}
+
+.login-btn:hover{
+   background-color:#3BBA71;
+   color:#fff;
+   
+
+}
+
+
+.page-content{
+   padding-top:100px;
+   color:#fff;
+   
+
+}
+.text-section{
+   width: 60%;
+   float: left;
+
+}
+
+.left-text{
+   padding-left:80px;
+   padding-top:15px;
+   font-family:open sans;
+   font-size:18px;
+
+}
+
+.form-section{
+   width: 40%;
+   float: left;
+}
+
+
+.form-headline{
+   color:#fff;
+   font-family:open sans;
+   margin-bottom:10px;
+}
+.contact-form{
+   padding: 6px 14px;
+   margin-left:90px;
+
+}
+
+.messagearea{
+  width:292px;
+  height:200px;
+  border:none;
+   -moz-border-radius: 5px;
+   border-radius: 4px;
+}
+
+.signup-form input{
+   padding:9px;
+   border:none;
+   -moz-border-radius: 5px;
+   border-radius: 4px;
+   margin-bottom:4px;
+   width:280px;
+
+}
+
+select{
+  padding:8px 40px;
+  color:gray;
+  margin-left:29px;
+  padding-bottom:10px;
+   border:none;
+   -moz-border-radius: 5px;
+   border-radius: 4px;
+
+
+}
+
+.form-text{
+   margin-left:1px;
+   padding:9px;
+   font-size:13px;
+   font-family:tahoma;
+   font-weight:bold;
+
+}
+
+.send-btn{
+   background-color:#27b061;
+   color:#fff;
+   width:298px;
+   height:35px;
+   border:none;
+   font-weight:bold;
+   -moz-border-radius: 3px;
+   border-radius: 3px;
+   margin-top:5px;
+
+}
+
+.signup-btn:hover{
+   background-color:#3BBA71;
+   color:#fff;
+   
+
+}
+.copyrights{
+   margin-top:492px;
+   font-family:open sans;
+   font-size:13px;
+
+}
+
+.copyrights a {
+  font-weight:bold;
+  color:#fff;
+  text-decoration:none;
+
+}
+.copyrights p {
+  text-align:center;
+  color:#fff;
+  
+
+}
+
+
+
+
+
+
